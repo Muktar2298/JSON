@@ -1,0 +1,49 @@
+{
+    "persons": {
+        "person_1": {
+            "name": "Nishat Hasan Muktar",
+            "age": 21,
+            "phone": ["01601091999", "01996199420"],
+            "education": ["PSC", "JSC", "SSC", "HSC", "CSE-Undergraduate"],
+            "fatherName": "Md.Shada Mia",
+            "motherName": "Miss. Monawara Begum",
+            "friends": [{
+                "name": "Ojhora Pius Ripu",
+                "age": 21,
+                "occupation": ["Food Engineering", "Chemical Engineering", "Mechanical Engineering", ""]
+            }, {
+                "name": "Nusrat Jahan Tanha",
+                "occupation": [{
+                    "webDesigner": ["UX", "UI", "Graphics Design", "Motion Design"]
+                }, {
+                    "webDeveloper": ["Front-End", "Back-End", "Full-Stack"]
+                }]
+            }]
+        },
+        "person_2": {
+            "name": "Nishat Hasan Muktar",
+            "age": 21,
+            "phone": ["01601091999", "01996199420"],
+            "education": ["PSC", "JSC", "SSC", "HSC", "CSE-Undergraduate"],
+            "fatherName": "Md.Shada Mia",
+            "motherName": "Miss. Monawara Begum",
+            "friends": [{
+                "name": "Ojhora Pius Ripu",
+                "age": 21,
+                "occupation": ["Food Engineering", "Chemical Engineering", "Mechanical Engineering", ""]
+            }, {
+                "name": "Nusrat Jahan Tanha",
+                "occupation": [{
+                    "webDesigner": ["UX", "UI", "Graphics Design", "Motion Design"]
+                }, {
+                    "webDeveloper": ["Front-End", "Back-End", "Full-Stack"]
+                }]
+            }]
+        }
+    }
+}
+
+
+
+
+
